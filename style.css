@@ -1,0 +1,113 @@
+body {
+  background-color: #919596;
+  margin-top: 8%;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  background-color: white;
+  height: 670px;
+  width: 420px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-around;
+}
+.img1 {
+  height: 90px;
+}
+div.header_img {
+  margin-bottom: -20px;
+}
+.text1 {
+  margin-top: 0px;
+  font-size: large;
+  color: #919596;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.b1 {
+  height: 45px;
+  width: 360px;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: white;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  background-color: #3b5998;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.line {
+  margin-top: -10px;
+  display: flex;
+  color: #919596;
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
+  gap: 20px;
+  font-size: large;
+  font-weight: bold;
+}
+.l1 {
+  height: 0px;
+  width: 145px;
+  border-bottom: 1px #e0e9e0 solid;
+}
+.l2 {
+  height: 0px;
+  width: 145px;
+  border-bottom: 1px #e0e9e0 solid;
+}
+div input {
+  margin-bottom: 8px;
+  border-style: solid;
+  border-color: #e0e9e0;
+  outline: none;
+  height: 40px;
+  width: 350px;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+}
+
+input::placeholder {
+  padding-left: 10px;
+  color: #919596;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.b2 {
+  height: 45px;
+  width: 360px;
+  border-radius: 8px;
+  margin-top: -20px;
+  /* border-style: solid; */
+  border-color: white;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  background-color: #3b5998;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.text2 {
+  margin-top: -10px;
+  font-size: large;
+  color: #aeb4b6;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+span {
+  color: #919596;
+}
